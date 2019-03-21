@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quartz.Demo", "Quartz.Demo\Quartz.Demo.csproj", "{17ECCD26-046A-4BC2-963D-302272444AEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HangFire.Demo", "HangFire.Demo\HangFire.Demo.csproj", "{272CCCF2-4727-4926-9F23-74245B304433}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17ECCD26-046A-4BC2-963D-302272444AEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17ECCD26-046A-4BC2-963D-302272444AEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17ECCD26-046A-4BC2-963D-302272444AEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17ECCD26-046A-4BC2-963D-302272444AEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{272CCCF2-4727-4926-9F23-74245B304433}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{272CCCF2-4727-4926-9F23-74245B304433}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{272CCCF2-4727-4926-9F23-74245B304433}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{272CCCF2-4727-4926-9F23-74245B304433}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC2889EE-2F9A-4AE9-BD73-9E1675307F15}
+	EndGlobalSection
+EndGlobal
